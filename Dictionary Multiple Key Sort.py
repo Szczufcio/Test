@@ -6,7 +6,7 @@ users = [
     {'fname':'Ala', 'lname': 'Cebula'},
     {'fname':'Wojtek', 'lname': 'Kryminalista'},
     {'fname':'Maciej', 'lname': 'Friendzone'},
-    {'fname':'Grzechu', 'lname': 'Kozak'}
+    {'fname':'Grzechu', 'lname': 'Kuc'}
 ]
 
 for x in sorted(users, key=itemgetter('fname')):
